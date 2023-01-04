@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KevinInkjet
 - 👀 I’m interested in Artificial Inteligence and physics
-- 🌱 I’m currently studying Computer Science 
+- 🌱 I have a bacherlor's degree in Computer Science
 
 <!---
 KevinInkjet/KevinInkjet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
